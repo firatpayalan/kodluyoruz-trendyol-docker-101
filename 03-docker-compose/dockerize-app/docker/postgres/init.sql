@@ -1,1 +1,0 @@
-create database kodluyoruz-db;
